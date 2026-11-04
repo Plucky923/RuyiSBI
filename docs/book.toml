@@ -1,0 +1,15 @@
+[book]
+title = "RuyiSBI"
+description = "Research, prototype, and experiments for RuyiSBI"
+language = "en"
+src = "src"
+
+[build]
+build-dir = "build"
+create-missing = false
+use-default-preprocessors = false
+
+[preprocessor.links]
+
+[output.html]
+git-repository-url = "https://github.com/Plucky923/RuyiSBI"

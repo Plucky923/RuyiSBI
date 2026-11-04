@@ -3,6 +3,8 @@
 RuyiSBI is an early-stage research project. Its research question, design,
 and evaluation plan are still being explored.
 
+Read the [RuyiSBI documentation](https://www.plucky.wang/RuyiSBI/).
+
 ## Repository layout
 
 - [`docs/`](docs/README.md): research notes and design documentation.
